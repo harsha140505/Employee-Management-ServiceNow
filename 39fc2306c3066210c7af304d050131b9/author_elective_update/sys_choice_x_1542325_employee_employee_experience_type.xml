@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="experience_type" table="x_1542325_employee_employee" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>experience_type</element>
+            <name>x_1542325_employee_employee</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-12 05:39:31</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>experience_type</sys_name>
+            <sys_package display_value="Employee Management" source="x_1542325_employee">39fc2306c3066210c7af304d050131b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Management">39fc2306c3066210c7af304d050131b9</sys_scope>
+            <sys_update_name>sys_choice_x_1542325_employee_employee_experience_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-12 05:39:31</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>experience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Application/Software Developer</label>
+            <language>en</language>
+            <name>x_1542325_employee_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-12 05:39:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-12 05:39:32</sys_updated_on>
+            <value>application_software_developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>experience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Database Administrator</label>
+            <language>en</language>
+            <name>x_1542325_employee_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-12 05:39:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-12 05:39:32</sys_updated_on>
+            <value>database_administrator</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>experience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Database Architect</label>
+            <language>en</language>
+            <name>x_1542325_employee_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-12 05:39:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-12 05:39:32</sys_updated_on>
+            <value>database_architect</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>experience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Product Manager</label>
+            <language>en</language>
+            <name>x_1542325_employee_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-12 05:39:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-12 05:39:32</sys_updated_on>
+            <value>product_manager</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>experience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Project Management</label>
+            <language>en</language>
+            <name>x_1542325_employee_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-12 05:39:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-12 05:39:32</sys_updated_on>
+            <value>project_management</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>experience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Scrum Master</label>
+            <language>en</language>
+            <name>x_1542325_employee_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-12 05:39:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-12 05:39:32</sys_updated_on>
+            <value>scrum_master</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>experience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>System Administrator</label>
+            <language>en</language>
+            <name>x_1542325_employee_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-12 05:39:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-12 05:39:31</sys_updated_on>
+            <value>system_administrator</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>experience_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UI/UX Designer</label>
+            <language>en</language>
+            <name>x_1542325_employee_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-12 05:39:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-12 05:39:32</sys_updated_on>
+            <value>ui_ux_designer</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

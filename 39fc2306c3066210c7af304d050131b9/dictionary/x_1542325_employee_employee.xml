@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b5b17b8ac3066210c7af304d05013190" label="Employee" max_length="40" name="x_1542325_employee_employee" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Employee Joining Date" max_length="40" name="joining_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Emergency email" max_length="40" name="emergency_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Emergency Contact (Phone)" max_length="40" name="emergency_contact_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Created by" max_length="40" name="created_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Employee Number" mandatory="true" max_length="40" name="employee_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Full Name" max_length="40" name="full_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated" max_length="40" name="updated" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Employee Date of Birth" mandatory="true" max_length="40" name="employee_date_of_birth" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Experience Type" max_length="40" name="experience_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Product Manager" value="product_manager"/>
+                <element inactive_on_update="false" label="Application/Software Developer" value="application_software_developer"/>
+                <element inactive_on_update="false" label="Scrum Master" value="scrum_master"/>
+                <element inactive_on_update="false" label="Project Management" value="project_management"/>
+                <element inactive_on_update="false" label="System Administrator" value="system_administrator"/>
+                <element inactive_on_update="false" label="UI/UX Designer" value="ui_ux_designer"/>
+                <element inactive_on_update="false" label="Database Administrator" value="database_administrator"/>
+                <element inactive_on_update="false" label="Database Architect" value="database_architect"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Employee Address" max_length="100" name="employee_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Employee Email" max_length="40" name="employee_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Employee Location" max_length="100" name="employee_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Emergency Contact Person Relation" max_length="40" name="emergency_contact_person_relation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mobile No" max_length="40" name="mobile_no" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Employee Username" max_length="40" name="employee_username" type="string"/>
+        <element label="Employee Experience(in yrs.)" max_length="15" name="employee_experience_in_yrs" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated by" max_length="40" name="updated_by" type="string"/>
+        <element label="Employee Manager" max_length="32" name="employee_manager" reference="x_1542325_employee_employee" type="reference"/>
+        <element label="Emergency Contact Person Name" max_length="30" name="emergency_contact_person_name" type="string"/>
+        <index name="index">
+            <element name="employee_manager"/>
+        </index>
+    </element>
+</database>

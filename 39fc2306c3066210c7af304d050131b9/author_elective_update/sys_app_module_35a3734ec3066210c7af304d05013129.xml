@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Employee Management">bda37b8ac3066210c7af304d050131fc</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1542325_employee_employee_certification</name>
+        <order>5</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1542325_employee.employee_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-12 05:47:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>35a3734ec3066210c7af304d05013129</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Create New Employee</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Employee Management" source="x_1542325_employee">39fc2306c3066210c7af304d050131b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Management">39fc2306c3066210c7af304d050131b9</sys_scope>
+        <sys_update_name>sys_app_module_35a3734ec3066210c7af304d05013129</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-12 05:51:37</sys_updated_on>
+        <timeline_page/>
+        <title>Create New Employee</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Management">39fc2306c3066210c7af304d050131b9</application>
+        <file_path/>
+        <instance_id>2c04d620eb825614e483f459bad0cdc1</instance_id>
+        <instance_name>dev290629</instance_name>
+        <name>sys_app_module_35a3734ec3066210c7af304d05013129</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Employee Management">bda37b8ac3066210c7af304d050131fc</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1542325_employee_employee_certification</name><order>5</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1542325_employee.employee_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-12 05:47:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>35a3734ec3066210c7af304d05013129</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Create New Employee</sys_name><sys_overrides/><sys_package display_value="Employee Management" source="x_1542325_employee">39fc2306c3066210c7af304d050131b9</sys_package><sys_policy/><sys_scope display_value="Employee Management">39fc2306c3066210c7af304d050131b9</sys_scope><sys_update_name>sys_app_module_35a3734ec3066210c7af304d05013129</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-12 05:51:37</sys_updated_on><timeline_page/><title>Create New Employee</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1366672300</payload_hash>
+        <record_name>Create New Employee</record_name>
+        <reverted_from/>
+        <source>79fc2306c3066210c7af304d050131bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-12 05:51:38</sys_created_on>
+        <sys_id>f374778ac3066210c7af304d0501310c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19762b1a20c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-12 05:51:38</sys_updated_on>
+        <type>Module</type>
+        <update_guid>bb74778a59066210dcec5db5000e990b</update_guid>
+        <update_guid_history>bb74778a59066210dcec5db5000e990b:-1366672300,b164338e110662107bdedadf81002e95:932073980,79a3734e6b066210cd0990da20a76d2a:410337011</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New Employee">4094b38ec3066210c7af304d0501317d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-12 05:51:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>03b3194fdaca4694844a37caf16501f1</sys_id>
+        <sys_metadata>35a3734ec3066210c7af304d05013129</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New Employee</sys_name>
+        <sys_package display_value="Employee Management" source="x_1542325_employee">39fc2306c3066210c7af304d050131b9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Employee Management">39fc2306c3066210c7af304d050131b9</sys_scope>
+        <sys_scope_delete display_value="">0433549776994d8980a0337e198b1219</sys_scope_delete>
+        <sys_update_name>sys_app_module_35a3734ec3066210c7af304d05013129</sys_update_name>
+        <sys_update_version display_value="sys_app_module_35a3734ec3066210c7af304d05013129">f374778ac3066210c7af304d0501310c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-12 05:51:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
